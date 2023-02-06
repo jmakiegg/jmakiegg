@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jmakie</h1>
 <h3 align="center">A full-stack developer trainee from PH</h3>
 
-- 🔭 I’m currently working on [Mndoro Med Center](https://github.com/jmakiegg/Mndoro-Medical-Center)
+- 🔭 I’m currently working on [Mndoro Med Center](https://github.com/jmakiegg/Hospital-Mgmt-Info-System)
 
 - 🌱 I’m currently learning **MERN Stack**
 
