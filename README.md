@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jmakie</h1>
-<h3 align="center">A full-stack developer trainee from PH</h3>
+<h3 align="center">A Graduate Outsystems Developer from PH</h3>
 
 - 🔭 I’m currently working on [Mndoro Med Center](https://github.com/jmakiegg/Hospital-Mgmt-Info-System)
 
